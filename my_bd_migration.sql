@@ -13,8 +13,8 @@
 
 
 -- Dumping database structure for rest_with_spring_boot
-CREATE DATABASE IF NOT EXISTS `rest_with_spring_boot` /*!40100 DEFAULT CHARACTER SET latin1 */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `rest_with_spring_boot`;
+CREATE DATABASE IF NOT EXISTS `rest_with_springboot` /*!40100 DEFAULT CHARACTER SET latin1 */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `rest_with_springboot`;
 
 -- Dumping structure for table rest_with_spring_boot.person
 CREATE TABLE IF NOT EXISTS `person` (

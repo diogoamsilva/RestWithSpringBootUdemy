@@ -1,7 +1,7 @@
 language: bash
 services: docker
 before_install:
-  - cd 15\ Docker/
+  - cd 15\ Docker\ and\ AWS/
   - echo "We are in the Docker folder!"
 script:
   - docker-compose build
